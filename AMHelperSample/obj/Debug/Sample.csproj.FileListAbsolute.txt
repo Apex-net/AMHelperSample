@@ -1,0 +1,11 @@
+c:\temp\Sample\Sample\bin\Debug\Sample.exe.config
+c:\temp\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+c:\temp\Sample\Sample\bin\Debug\Sample.exe
+c:\temp\Sample\Sample\bin\Debug\Sample.pdb
+c:\temp\Sample\Sample\obj\Debug\Sample.exe
+c:\temp\Sample\Sample\obj\Debug\Sample.pdb
+c:\temp\Sample\Sample\bin\Debug\AMHelper.dll
+c:\temp\Sample\Sample\bin\Debug\Newtonsoft.Json.dll
+c:\temp\Sample\Sample\bin\Debug\RestSharp.Net2.dll
+c:\temp\Sample\Sample\bin\Debug\Newtonsoft.Json.pdb
+c:\temp\Sample\Sample\bin\Debug\Newtonsoft.Json.xml
