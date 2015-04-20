@@ -66,9 +66,7 @@ In questo breve tutorial vedremo un esempio su come recuperare i dati degli ordi
   if (RetVal && OrdersData != null)
         {
             Console.WriteLine(String.Format("... found {0} record ", OrdersData.testate.Count.ToString()));
-  
-            System.Globalization.CultureInfo itIT = System.Globalization.CultureInfo.CreateSpecificCulture("it-IT");
-  
+            
             foreach (var t in OrdersData.testate)
             {
                 Console.WriteLine("Codclifor:" + t.cod_clifor);
