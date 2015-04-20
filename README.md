@@ -2,7 +2,7 @@ AMHelperSample
 ===
 In questo breve tutorial vedremo un esempio su come recuperare i dati degli ordini da AppManager usando AMHelper
 
-1. Creare una nuova solution in Visual studio
+1. Creare una nuova solution in Visual studio (Sono supportati i framework 2.0, 3.5, 4.0)
 
 2. Installare con nuget la libreria
   ```
